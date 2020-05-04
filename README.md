@@ -1,2 +1,7 @@
 # blockpacket
-An asynchronous Minecraft packet parser written in Python.
+After failing to find a packet parser for Python 3 and works on the latest versions of Minecraft, I decided to make this.
+
+Join our Discord at https://discord.gg/E9p3Mfh.
+
+# Contributing
+Contributing is on pause while I finish some of the core components, but once that's done, you can start contributing!
