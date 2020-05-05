@@ -1,5 +1,5 @@
 # blockpacket
-After failing to find a packet parser for Python 3 and works on the latest versions of Minecraft, I decided to make this.
+After failing to find a packet parser for Python 3 that works on the latest versions of Minecraft, I decided to make this.
 
 Join our Discord at https://discord.gg/E9p3Mfh.
 
